@@ -20,6 +20,6 @@ d=b*b-4*a*c;
 root1=((-b)+sqrt(d))/(2*a);
 root2=((-b)-sqrt(d))/(2*a);
 
-
+//print out the values of the roots
 printf("root1=%f and root2=%f",root1,root2);
 }
